@@ -1,0 +1,11 @@
+#transmenu.transparency .nav-link, #transmenu.transparency .nav-link.active, #transmenu.transparency .nav-link:focus {
+  color: #fff;
+  border: none;
+  opacity: 1;
+}
+
+#transmenu.transparency .nav-link:hover {
+  color: #fff;
+  opacity: .7;
+}
+
